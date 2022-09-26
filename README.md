@@ -13,6 +13,12 @@
 - GitHub: [@Hannziegel](https://github.com/Hannziegel)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigojrnunes/)
 
+👤 NATASHA TATENDA CHIROMBE (contributor)
+
+GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+Twitter: [@NatashaChirombe]
+LinkedIn: Natasha Chirombe
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
