@@ -2,7 +2,7 @@
 # Vet Clinic DataBase
 > This is a database created to learn SQL and PostgreSQL in the first week of the fourth module of Microverse.
 
-![](https://raw.githubusercontent.com/Hannziegel/vet_clinic/diagram/drawSQL.png)
+![](https://raw.githubusercontent.com/Hannziegel/vet_clinic/dev/drawSQL.png)
 
 ## Built With
 ![](https://img.shields.io/badge/-PostgreSQL-blue)
